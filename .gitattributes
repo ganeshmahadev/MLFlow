@@ -1,1 +1,2 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+mlartifacts/0/3349dd0820614d5ea95946dac39d31aa/artifacts/model/model.pkl filter=lfs diff=lfs merge=lfs -text
