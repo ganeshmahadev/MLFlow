@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/179230235173637047/1380c637cb3a47dcbf8c2f920f4b676c/artifacts
+deleted_time: 1730554559922
 end_time: 1730505412747
 entry_point_name: ''
 experiment_id: '179230235173637047'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1380c637cb3a47dcbf8c2f920f4b676c
 run_name: agreeable-trout-749
 run_uuid: 1380c637cb3a47dcbf8c2f920f4b676c

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/179230235173637047/43c0a0a0833d40e3a6443aa3e94a9ed4/artifacts
+deleted_time: 1730554559936
 end_time: 1730504007519
 entry_point_name: ''
 experiment_id: '179230235173637047'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 43c0a0a0833d40e3a6443aa3e94a9ed4
 run_name: thoughtful-asp-179
 run_uuid: 43c0a0a0833d40e3a6443aa3e94a9ed4

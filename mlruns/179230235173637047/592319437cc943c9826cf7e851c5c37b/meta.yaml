@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/179230235173637047/592319437cc943c9826cf7e851c5c37b/artifacts
+deleted_time: 1730554559923
 end_time: 1730505310949
 entry_point_name: ''
 experiment_id: '179230235173637047'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 592319437cc943c9826cf7e851c5c37b
 run_name: bustling-bird-488
 run_uuid: 592319437cc943c9826cf7e851c5c37b

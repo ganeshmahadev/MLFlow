@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/179230235173637047/45f358af3cca4077b92008a66106a45b/artifacts
+deleted_time: 1730554559923
 end_time: 1730504951671
 entry_point_name: ''
 experiment_id: '179230235173637047'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 45f358af3cca4077b92008a66106a45b
 run_name: legendary-goose-799
 run_uuid: 45f358af3cca4077b92008a66106a45b

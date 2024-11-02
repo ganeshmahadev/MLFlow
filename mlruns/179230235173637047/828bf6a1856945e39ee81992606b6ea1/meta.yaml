@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/179230235173637047/828bf6a1856945e39ee81992606b6ea1/artifacts
+deleted_time: 1730554559935
 end_time: 1730504045091
 entry_point_name: ''
 experiment_id: '179230235173637047'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 828bf6a1856945e39ee81992606b6ea1
 run_name: loud-shrew-340
 run_uuid: 828bf6a1856945e39ee81992606b6ea1
