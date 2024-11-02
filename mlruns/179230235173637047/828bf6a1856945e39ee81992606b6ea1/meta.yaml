@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179230235173637047/828bf6a1856945e39ee81992606b6ea1/artifacts
+end_time: 1730504045091
+entry_point_name: ''
+experiment_id: '179230235173637047'
+lifecycle_stage: active
+run_id: 828bf6a1856945e39ee81992606b6ea1
+run_name: loud-shrew-340
+run_uuid: 828bf6a1856945e39ee81992606b6ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730504035322
+status: 3
+tags: []
+user_id: Ganesh Mahadev

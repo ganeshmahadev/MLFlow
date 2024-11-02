@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179230235173637047/45f358af3cca4077b92008a66106a45b/artifacts
+end_time: 1730504951671
+entry_point_name: ''
+experiment_id: '179230235173637047'
+lifecycle_stage: active
+run_id: 45f358af3cca4077b92008a66106a45b
+run_name: legendary-goose-799
+run_uuid: 45f358af3cca4077b92008a66106a45b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730504945781
+status: 3
+tags: []
+user_id: Ganesh Mahadev

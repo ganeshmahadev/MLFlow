@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179230235173637047/592319437cc943c9826cf7e851c5c37b/artifacts
+end_time: 1730505310949
+entry_point_name: ''
+experiment_id: '179230235173637047'
+lifecycle_stage: active
+run_id: 592319437cc943c9826cf7e851c5c37b
+run_name: bustling-bird-488
+run_uuid: 592319437cc943c9826cf7e851c5c37b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730505305095
+status: 3
+tags: []
+user_id: Ganesh Mahadev
