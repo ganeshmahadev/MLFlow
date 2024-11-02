@@ -1,2 +1,35 @@
-mlartifacts/0/3349dd0820614d5ea95946dac39d31aa/artifacts/model/model.pkl
-*.pkl filter=lfs diff=lfs merge=lfs -text
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+ENV/
+.env
+.env.*
+
+# Ignore MLFlow artifacts directory
+mlartifacts/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (Windows, macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore large model and data files if they’re handled elsewhere (like Git LFS or external storage)
+*.h5
+*.pkl
+*.joblib
+*.model
+*.ckpt
+*.pt
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Allow specific large files by overriding ignore rules
+!mlartifacts/0/3349dd0820614d5ea95946dac39d31aa/artifacts/model/model.pkl
