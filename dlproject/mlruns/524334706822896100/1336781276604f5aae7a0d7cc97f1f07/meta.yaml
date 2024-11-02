@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/1336781276604f5aae7a0d7cc97f1f07/artifacts
+end_time: 1730568146232
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: 1336781276604f5aae7a0d7cc97f1f07
+run_name: orderly-tern-912
+run_uuid: 1336781276604f5aae7a0d7cc97f1f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730568132172
+status: 4
+tags: []
+user_id: Ganesh Mahadev

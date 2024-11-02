@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/adbb90872e95437a80ca0791ade476e2/artifacts
+end_time: 1730567309689
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: adbb90872e95437a80ca0791ade476e2
+run_name: resilient-lamb-781
+run_uuid: adbb90872e95437a80ca0791ade476e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730567309528
+status: 4
+tags: []
+user_id: Ganesh Mahadev

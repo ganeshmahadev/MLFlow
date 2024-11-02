@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/0dcef790417a4ed7a80bfbc5216f3719/artifacts
+end_time: 1730568241301
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: 0dcef790417a4ed7a80bfbc5216f3719
+run_name: thundering-loon-893
+run_uuid: 0dcef790417a4ed7a80bfbc5216f3719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730568192804
+status: 3
+tags: []
+user_id: Ganesh Mahadev

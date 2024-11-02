@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/f2d999352ec64cffac1e728577474998/artifacts
+end_time: 1730568204594
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: f2d999352ec64cffac1e728577474998
+run_name: intelligent-squid-66
+run_uuid: f2d999352ec64cffac1e728577474998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730568192873
+status: 3
+tags: []
+user_id: Ganesh Mahadev

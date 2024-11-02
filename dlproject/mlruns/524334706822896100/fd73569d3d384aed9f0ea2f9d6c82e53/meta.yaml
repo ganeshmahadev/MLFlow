@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/fd73569d3d384aed9f0ea2f9d6c82e53/artifacts
+end_time: 1730565478613
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: fd73569d3d384aed9f0ea2f9d6c82e53
+run_name: gifted-wolf-101
+run_uuid: fd73569d3d384aed9f0ea2f9d6c82e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730565478522
+status: 4
+tags: []
+user_id: Ganesh Mahadev

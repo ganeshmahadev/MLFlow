@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/31c6e58adb0640849692cba544079be8/artifacts
+end_time: 1730566135690
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: 31c6e58adb0640849692cba544079be8
+run_name: unique-cub-466
+run_uuid: 31c6e58adb0640849692cba544079be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730566135595
+status: 4
+tags: []
+user_id: Ganesh Mahadev

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/1478534bf60b413fb74356571a018b6d/artifacts
+end_time: 1730566014065
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: 1478534bf60b413fb74356571a018b6d
+run_name: angry-wren-322
+run_uuid: 1478534bf60b413fb74356571a018b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730566013981
+status: 4
+tags: []
+user_id: Ganesh Mahadev

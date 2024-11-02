@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Ganesh%20Mahadev/OneDrive/Desktop/MLFlow/dlproject/mlruns/524334706822896100/de22c3dcb72a4d788c0312ff72d8c19b/artifacts
+end_time: 1730565810990
+entry_point_name: ''
+experiment_id: '524334706822896100'
+lifecycle_stage: active
+run_id: de22c3dcb72a4d788c0312ff72d8c19b
+run_name: indecisive-ox-956
+run_uuid: de22c3dcb72a4d788c0312ff72d8c19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730565810910
+status: 4
+tags: []
+user_id: Ganesh Mahadev
